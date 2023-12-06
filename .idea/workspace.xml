@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="674359c0-1c41-4055-93d4-009e11152503" name="Changes" comment="Lab 1 done">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="674359c0-1c41-4055-93d4-009e11152503" name="Changes" comment="Lab 3 done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,22 +27,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/k2002/Desktop/kody/moje zadania/.studia/sem4/MOwNiT",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/k2002/Desktop/kody/moje zadania/.studia/sem4/MOwNiT&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Jupyter Settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="674359c0-1c41-4055-93d4-009e11152503" name="Changes" comment="" />
@@ -55,6 +57,11 @@
       <workItem from="1698401740961" duration="124000" />
       <workItem from="1699372339453" duration="20948000" />
       <workItem from="1699492555286" duration="41000" />
+      <workItem from="1700573942826" duration="33118000" />
+      <workItem from="1700721466941" duration="54000" />
+      <workItem from="1701637993883" duration="595000" />
+      <workItem from="1701811976554" duration="598000" />
+      <workItem from="1701880738361" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="Lab 1 done">
       <option name="closed" value="true" />
@@ -64,7 +71,39 @@
       <option name="project" value="LOCAL" />
       <updated>1698293079999</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Lab 3 halfway done">
+      <option name="closed" value="true" />
+      <created>1700610945186</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700610945186</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Lab 3 halfway done">
+      <option name="closed" value="true" />
+      <created>1700620398038</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700620398038</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lab 3 halfway done">
+      <option name="closed" value="true" />
+      <created>1700620538724</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700620538724</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Lab 3 done">
+      <option name="closed" value="true" />
+      <created>1700633696175</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700633696175</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,6 +111,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lab 1 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lab 1 done" />
+    <MESSAGE value="Lab 3 halfway done" />
+    <MESSAGE value="Lab 3 halfway done v2" />
+    <MESSAGE value="Lab 3 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lab 3 done" />
   </component>
 </project>
