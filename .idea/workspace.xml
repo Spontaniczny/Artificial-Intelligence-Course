@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="674359c0-1c41-4055-93d4-009e11152503" name="Changes" comment="Added my cat to test via AI is it cat for sure">
-      <change afterPath="$PROJECT_DIR$/lab4/data/toothbrushes.jpg" afterDir="false" />
+    <list default="true" id="674359c0-1c41-4055-93d4-009e11152503" name="Changes" comment=" Lab5 initial commit">
+      <change afterPath="$PROJECT_DIR$/lab5/poquad-dev.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab5/poquad-train.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab4/lab_4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab4/lab_4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab5/lab_5.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab5/lab_5.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +76,7 @@
       <workItem from="1701901006827" duration="1691000" />
       <workItem from="1701902828491" duration="7937000" />
       <workItem from="1701911114128" duration="6714000" />
+      <workItem from="1703125034843" duration="1890000" />
     </task>
     <task id="LOCAL-00001" summary="Lab 1 done">
       <option name="closed" value="true" />
@@ -132,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701915708889</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=" Lab5 initial commit">
+      <option name="closed" value="true" />
+      <created>1703102000764</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1703102000764</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +155,7 @@
     <MESSAGE value="Lab 3 done" />
     <MESSAGE value="Lab 4 initial commit" />
     <MESSAGE value="Added my cat to test via AI is it cat for sure" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added my cat to test via AI is it cat for sure" />
+    <MESSAGE value=" Lab5 initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value=" Lab5 initial commit" />
   </component>
 </project>
